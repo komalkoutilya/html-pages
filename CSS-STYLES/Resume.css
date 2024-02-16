@@ -13,7 +13,7 @@
     color: white;
     text-wrap: nowrap;
 
-    background-image: linear-gradient(to right,rgb(32, 31, 31),black);
+    background-image: linear-gradient(to right,rgb(20, 17, 17),rgb(92, 97, 55));
 }
 
 .logo{
@@ -83,7 +83,7 @@
 .resume-body{
   padding: 2%;
   padding-top: 0.3%;
-  background-image: radial-gradient(circle, rgb(0, 0, 0), rgba(0, 0, 0, 0.846), rgba(0, 0, 0, 0.729));
+  background-image: radial-gradient(circle, rgb(0, 0, 0), rgba(43, 41, 57, 0.846),rgba(75, 71, 123, 0.729));
   color:white;
   width: auto;
   height: auto;
